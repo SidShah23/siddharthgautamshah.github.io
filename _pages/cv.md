@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Siddharth Shah"
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+Hello! I’m Siddharth Shah — a recent graduate student from Carnegie Mellon University working on machine learning systems, distributed training, federated learning and computer systems. My current research focuses on LoRA and scalable inference.
 
 Education
 ======
