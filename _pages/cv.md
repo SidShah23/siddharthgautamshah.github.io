@@ -13,24 +13,23 @@ Hello! I’m Siddharth Shah — a recent graduate student from Carnegie Mellon U
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Electrical and Computer Engineering, Carnegie Mellon University, 2025, QPA - 4.0/4.0
+* Bachelor of Technology in Electronics and Communication Engineering, Manipal Institute of Technology, 2022, CGPA - 8.86/10
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Current: Research Assistant
+  * Optimization, Probability and Learning Lab, Carnegie Mellon University
+  * Duties includes: Collaboration with Ohio State University(Colosseum System), BlackBox Language Model Fine Tuning
+  * Supervisor: Dr. Gauri Joshi
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Jan 2022 - Jan 2024: Software Development Engineer
+  * Microsoft
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Mr. Himanshu Sharma
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* July 2021 - October 2021: Development Intern
+  * Parkyeri
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
