@@ -1,68 +1,52 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Siddharth Shah",
+    "email": "siddharthgautamshah@gmail.com",
+    "phone": "+1 (412) 216-7931",
+    "website": "https://sidshah23.github.io/siddharthgautamshah.github.io/",
+    "summary": "Currently working as a research assistant at the Optimization, Probability and Learning Lab at Carnegie Mellon University. My research interests include distributed systems, federated learning, black-box optimization, and machine learning.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "city": "Pittbsurgh",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "siddharthgautamshah",
+        "url": "https://www.linkedin.com/in/siddharthgautamshah/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "SidShah23",
+        "url": "https://github.com/SidShah23"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Carnegie Mellon University",
+      "area": "Msc in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2024",
+      "endDate": "2015",
+      "gpa": 4.0,
+      "courses": ["Computer systems", "Introduction to Machine Learning", "Introduction to Deep Learning", "Computer Vision"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Manipal Institute of Technology",
+      "area": "B.Tech in Electronics and Communication Engineering with a minor in Data Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": 8.86,
+      "courses": ["Practical Machine Learning", "Data Science and Analytics", "Database Management Systems", "Computer Networks"]
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": ["English", "Spanish", "Hindi"],
+  "interests": ["Running", "Skiing", "Bouldering"],
   "references": [],
   "publications": [
     {
